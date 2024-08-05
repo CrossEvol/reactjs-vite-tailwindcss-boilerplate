@@ -1,5 +1,5 @@
-import Avatar from 'components/Avatar'
-import logo from 'assets/logo.svg'
+import Avatar from '@/components/Avatar'
+import logo from '@/assets/logo.svg'
 
 const randoms = [
   [1, 2],
